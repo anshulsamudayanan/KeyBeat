@@ -1,12 +1,25 @@
 # KeyBeat
-<img src="https://github.com/user-attachments/assets/ee93de81-cd90-4d4b-8239-ab07d7ea6f43" width="350" />
 
-<img src="https://github.com/user-attachments/assets/450adfd0-bf1b-458a-b5b9-3457f21e8c61" width="350" />
+KeyBeat is a mini keyboard which lets the user control their music with ease, with features like volume control, music scrubbing, next and previous song, pause/play, and mute.
 
-<img src="https://github.com/user-attachments/assets/2020be32-a354-4c8e-8666-20768485d40c" width="350" />
+## Images
 
-<img src="https://github.com/user-attachments/assets/4861f16c-535c-4256-aa1b-026737404c56" width="350" />
+<p align="center">
+  <img width="600" src="https://github.com/user-attachments/assets/a3838420-d270-4e37-8838-5a9e2c2b226f" />
+</p>
 
+<p align="center">
+  <img width="600" src="https://github.com/user-attachments/assets/af82b26b-f4d5-40ad-9a20-dc02d4020638" />
+</p>
 
+<p align="center">
+  <img width="600" src="https://github.com/user-attachments/assets/2fead422-9902-4886-9510-21d0b906bfc2" />
+</p>
 
-A mini keyboard That will feature various features that makes controlling your music easier such as buttons for volume control,pause play,skip,mute,Song scrubbing,etc it  also white or gold led lights to give it a minimalistic look
+<p align="center">
+  <img width="600" src="https://github.com/user-attachments/assets/2020be32-a354-4c8e-8666-20768485d40c" />
+</p>
+
+<p align="center">
+  <img width="600" src="https://github.com/user-attachments/assets/4861f16c-535c-4256-aa1b-026737404c56" />
+</p>
