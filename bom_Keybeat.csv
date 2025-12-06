@@ -1,0 +1,17 @@
+Reference,Description,Quantity
+PCB,Custom PCB Board,1
+D1,SK6812MINI RGB LED,1
+D2,SK6812MINI RGB LED,1
+D3,SK6812MINI RGB LED,1
+D4,SK6812MINI RGB LED,1
+U1,Seeed Studio XIAO RP2040,1
+SW1,Push Button,1
+SW2,Push Button,1
+SW3,Push Button,1
+SW4,Push Button,1
+SW5,Rotary Switch,1
+SW6,Rotary Encoder,1
+3D_PART_1,3D Printed Component,1
+3D_PART_2,3D Printed Component,1
+KEYCAP_1,Keycap for Push Button,4
+KEYCAP_2,Keycap for Rotary Encoder,2
